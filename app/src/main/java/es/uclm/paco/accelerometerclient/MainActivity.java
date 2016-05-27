@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+    //Prueba
     private EditText name;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
